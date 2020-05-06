@@ -1,1 +1,2 @@
 nfstream>=5.0.0
+psutil>=5.7.0
