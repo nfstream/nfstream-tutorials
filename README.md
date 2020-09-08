@@ -1,4 +1,4 @@
 # nfstream-tutorials
-This repository is dedicated to [**nfstream**][repo] tutorials notebooks
+This repository is dedicated to [**NFStream**][repo] tutorials notebooks
 
-[repo]: https://github.com/aouinizied/nfstream
+[repo]: https://github.com/nfstream/nfstream
