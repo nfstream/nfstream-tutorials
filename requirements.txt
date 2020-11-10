@@ -1,1 +1,1 @@
-nfstream>=6.2.0
+nfstream>=6.2.1
